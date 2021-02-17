@@ -1,0 +1,4 @@
+name: Pass Survival
+version: 1.0-SNAPSHOT
+main: com.boyboy0710.pass.Main
+api-version: 1.16

@@ -1,0 +1,11 @@
+name: mob
+version: 1.0-SNAPSHOT
+main: com.boyboy0710.mob.Main
+api-version: 1.16
+
+commands:
+  custom_mob:
+
+  spawn_no_ai:
+
+  spawn:

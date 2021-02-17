@@ -1,0 +1,4 @@
+name: Pass Survival
+version: ${project.version}
+main: com.boyboy0710.pass.Main
+api-version: 1.16

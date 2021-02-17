@@ -1,0 +1,11 @@
+name: Aromr
+version: ${project.version}
+main: com.boyboy0710.aromr.Main
+api-version: 1.16
+
+commands:
+  reloed_Health:
+
+  test:
+
+  time_and_weather:
